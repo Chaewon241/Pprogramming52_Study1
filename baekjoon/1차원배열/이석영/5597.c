@@ -17,6 +17,11 @@ int main()
 			}
 		}
 	}
+/*for (int i = 0; i < 30; i++)//위에 for문을 줄여본것
+	{
+		scanf_s("%d", &num);
+		arr[num - 1] = num;
+	}*/
 
 	for (int i = 0; i < 30; i++)
 	{
